@@ -1,0 +1,15 @@
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\HomeWork9\problem66\bin\Debug\net6.0\problem66.exe
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\HomeWork9\problem66\bin\Debug\net6.0\problem66.deps.json
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\HomeWork9\problem66\bin\Debug\net6.0\problem66.runtimeconfig.json
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\HomeWork9\problem66\bin\Debug\net6.0\problem66.dll
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\HomeWork9\problem66\bin\Debug\net6.0\problem66.pdb
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\HomeWork9\problem66\obj\Debug\net6.0\problem66.csproj.AssemblyReference.cache
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\HomeWork9\problem66\obj\Debug\net6.0\problem66.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\HomeWork9\problem66\obj\Debug\net6.0\problem66.AssemblyInfoInputs.cache
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\HomeWork9\problem66\obj\Debug\net6.0\problem66.AssemblyInfo.cs
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\HomeWork9\problem66\obj\Debug\net6.0\problem66.csproj.CoreCompileInputs.cache
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\HomeWork9\problem66\obj\Debug\net6.0\problem66.dll
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\HomeWork9\problem66\obj\Debug\net6.0\refint\problem66.dll
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\HomeWork9\problem66\obj\Debug\net6.0\problem66.pdb
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\HomeWork9\problem66\obj\Debug\net6.0\problem66.genruntimeconfig.cache
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\HomeWork9\problem66\obj\Debug\net6.0\ref\problem66.dll
